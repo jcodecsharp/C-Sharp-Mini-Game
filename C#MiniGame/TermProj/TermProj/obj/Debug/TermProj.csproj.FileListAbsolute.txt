@@ -1,0 +1,10 @@
+C:\Users\trent\source\repos\TermProj\TermProj\bin\Debug\TermProj.exe.config
+C:\Users\trent\source\repos\TermProj\TermProj\bin\Debug\TermProj.exe
+C:\Users\trent\source\repos\TermProj\TermProj\bin\Debug\TermProj.pdb
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.csprojAssemblyReference.cache
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.Form1.resources
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.Properties.Resources.resources
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.csproj.GenerateResource.cache
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.csproj.CoreCompileInputs.cache
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.exe
+C:\Users\trent\source\repos\TermProj\TermProj\obj\Debug\TermProj.pdb
